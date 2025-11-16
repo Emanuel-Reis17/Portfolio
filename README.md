@@ -4,7 +4,7 @@ Este é o meu site portfólio, criado para destacar minhas habilidades, competê
 
 ## 🔗 Link de Acesso
 
-🔗 Acesse a Landing Page aqui: [Link]
+🔗 Acesse a Landing Page aqui: https://portfolio-eight-beige-14.vercel.app
 
 ## 📸 Prévia
 
