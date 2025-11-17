@@ -61,4 +61,4 @@ A página está otimizada para os principais dispositivos e tamanhos de tela, in
 - Projetos em concluídos/em andamento
 
 Desenvolvido por **Emanuel Reis**
-emanuelemreis@gmai.com | @Emanuel-Reis17
+emanuelemreis@gmail.com | @Emanuel-Reis17
